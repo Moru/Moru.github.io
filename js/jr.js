@@ -13,15 +13,15 @@ var jr = {
 		// Choose a theme CSS
 		//'https://cdn.jsdelivr.net/gh/kognise/water.css@latest/dist/dark.css', // https://kognise.github.io/water.css/
 		//'https://unpkg.com/marx-css/css/marx.min.css',
-		'themes/moru.css',
+		'/themes/moru.css',
 		//'themes/default.css',
 		//'themes/simple.css',
 		// Plus the code CSS if you have a programming blog
-		'themes/code.css',
+		'/themes/code.css',
 	],
 	scripts : [
-		'js/showdown.js',
-		'js/prettify.js'
+		'/js/showdown.js',
+		'/js/prettify.js'
 		// if you want jQuery or some other library for a plugin
 		// '//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'
 	],
