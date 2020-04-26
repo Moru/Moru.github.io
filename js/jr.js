@@ -11,9 +11,9 @@ var jr = {
 	},
 	styles : [
 		// Choose a theme CSS
-		//'https://cdn.jsdelivr.net/gh/kognise/water.css@latest/dist/dark.css', // https://kognise.github.io/water.css/
+		'https://cdn.jsdelivr.net/gh/kognise/water.css@latest/dist/dark.min.css', // https://kognise.github.io/water.css/
 		//'https://unpkg.com/marx-css/css/marx.min.css',
-		'/themes/moru.css',
+		//'/themes/moru.css',
 		//'themes/default.css',
 		//'themes/simple.css',
 		// Plus the code CSS if you have a programming blog
