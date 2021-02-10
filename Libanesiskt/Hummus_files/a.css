@@ -1,0 +1,35 @@
+/* Enter Your Custom CSS Here */
+
+.nav { font-weight: 600; }
+
+body {
+   background-image: url();
+  background-repeat:no-repeat;
+  background-size:100% 100%;
+}
+.header http://media.zeinaskitchen.se/2014/12/HEADER3.jpg 
+        
+#header }
+.webkit-background-size: "cover;"
+.moz-background-size: "cover;"
+.o-background-size: "cover;"
+.background-size: "cover;"
+.background: url(http://media.zeinaskitchen.se/2014/12/head.jpg) no-repeat center center fixed;
+
+
+.post-meta .post-date { display: none; }
+
+.post-hover:hover .post-title a { color: #cc0000 }
+
+.post-meta .post-category a { color: #cc0000 }
+
+.s1 .alx-tab .tab-item-category a { color: #cc0000 }
+
+.post-meta .post-category a { color: #cc0000 }
+
+.s1 .alx-tabs-nav li.active a, #footer .alx-tabs-nav li.active a { border-bottom-color: #cc0000 }
+
+::selection {
+background: #cc0000 }
+ 
+.entry.excerpt { color: black; }
