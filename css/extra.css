@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Averia+Libre:ital,wght@0,400;0,700;1,400;1,700&family=Averia+Serif+Libre:ital,wght@0,300;0,700;1,300;1,700&family=Caveat&family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&family=Spectral:ital,wght@0,300;0,600;1,300;1,600&display=swap&family=Noto+Sans+Symbols+2&display=swap');
+
 :root > * {
     --md-primary-fg-color:        #9D0000;
     --md-primary-fg-color--light: #BD0000;
@@ -9,3 +11,19 @@
 	--md-default-fg-color--light: #dbccaf; /* Headlines */
 	--md-default-bg-color: #111100;	/* main background */
   }
+
+h1, h2, h3 {
+	font-family: "Averia Libre", cursive;
+	font-weight: 700;
+}
+
+.md-header__topic {
+	font-family: "Averia Libre", cursive;
+	font-weight: 700;
+	font-size: 120%;
+}
+
+body {
+	font-family: Roboto, Arial, sans-serif;
+	font-weight: 200;
+}
